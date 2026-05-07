@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+config.json
+data/
+*.log
+.env
+*.exe
+dist/
+build/
+*.spec
+backtest_report.json
+create_screenshot.py
+
+备份/
